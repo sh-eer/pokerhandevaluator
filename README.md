@@ -37,7 +37,7 @@ The result of the poker hand compare can be one of the 3 options defined by the 
 
 The ranking of the hands follows the [Texas Hold'em rules](http://www.wsop.com/how-to-play-poker/images/how-to-ranking.jpg)
 
-## 2. Extra
+## 2. Extra
 
 *  uses maven (see below)
 
